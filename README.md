@@ -4,13 +4,13 @@
 
 To be able to tell Google Home I want to watch a movie and have that trigger a number of events.
 
-* "Hey Google, I want to watch `movie name here`
+* "Hey Google, I want to watch `movie name`
 
 Google Home should reply with "I found this movie: `movie name, year and lead actor`. Is that correct?"
 
 ### If incorrect
 
-¯\_(ツ)_/¯
+`¯\_(ツ)_/¯`
 
 ### If correct
 
