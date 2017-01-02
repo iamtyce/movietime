@@ -6,6 +6,14 @@ To be able to tell Google Home I want to watch a movie and have that trigger a n
 
 * "Hey Google, I want to watch `movie name here`
 
+Google Home should reply with "I found this movie: `movie name, year and lead actor`. Is that correct?"
+
+### If incorrect
+
+¯\_(ツ)_/¯
+
+### If correct
+
 Google Assistant (via IFTTT?) triggers a search of the following streaming services:
 
 * Netflix
